@@ -2,3 +2,4 @@
 [2026-04-11T10:00:00] Init booking service project structure
 [2026-04-11T12:00:00] Add BookingModel class
 [2026-04-11T14:00:00] Add BookingRepository interface
+[2026-04-11T16:00:00] Add basic BookingService logic
