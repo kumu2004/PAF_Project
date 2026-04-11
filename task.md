@@ -1,0 +1,21 @@
+# Tasks
+
+- [ ] Planning and Research [/]
+    - [x] Create task.md
+    - [ ] Create implementation_plan.md
+    - [ ] Research `BaseDocument` and package structure
+- [ ] Implement Core Ticket Classes
+    - [ ] Create `TicketStatus.java`
+    - [ ] Create `TicketPriority.java`
+    - [ ] Create `TicketAttachment.java`
+    - [ ] Create `TicketComment.java`
+    - [ ] Create `Ticket.java`
+- [ ] Implement Persistence layer
+    - [ ] Create `TicketRepository.java`
+- [ ] Implement Data Transfer Objects (DTOs)
+    - [ ] Create `CreateTicketRequest.java`
+    - [ ] Create `TicketResponse.java`
+    - [ ] Create `CommentResponse.java`
+- [ ] Verification
+    - [ ] Verify compilation
+    - [ ] Create walkthrough.md
