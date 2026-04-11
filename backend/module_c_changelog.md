@@ -1,1 +1,2 @@
 - Added: TicketModule.txt -> Setup incident ticketing module structure
+- Added: Ticket.java -> Create Incident Ticket entity class
