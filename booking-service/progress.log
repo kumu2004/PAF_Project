@@ -5,3 +5,4 @@
 [2026-04-11T16:00:00] Add basic BookingService logic
 [2026-04-12T10:00:00] Implement BookingController endpoints
 [2026-04-12T12:00:00] Add validation for booking requests
+[2026-04-12T14:00:00] Configure database connection in application.properties
