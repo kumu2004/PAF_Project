@@ -8,3 +8,4 @@
 [2026-04-12T14:00:00] Configure database connection in application.properties
 [2026-04-12T16:00:00] Add custom exceptions for booking service
 [2026-04-13T10:00:00] Implement booking status update logic
+[2026-04-13T12:00:00] Add search functionality for bookings
