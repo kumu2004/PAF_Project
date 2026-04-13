@@ -3,3 +3,4 @@
 - Added: TicketCategory.java -> Add Ticket category and priority enums
 - Added: TicketRepository.java -> Create Ticket repository interface
 - Added: TicketService.java -> Create initial Ticket service implementation
+- Added: TicketServiceImpl.java -> Implement logic to create an incident ticket
