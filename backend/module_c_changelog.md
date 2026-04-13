@@ -4,3 +4,4 @@
 - Added: TicketRepository.java -> Create Ticket repository interface
 - Added: TicketService.java -> Create initial Ticket service implementation
 - Added: TicketServiceImpl.java -> Implement logic to create an incident ticket
+- Added: LocationResource.java -> Add support for location and resource details in Ticket
