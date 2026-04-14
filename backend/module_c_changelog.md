@@ -7,3 +7,4 @@
 - Added: LocationResource.java -> Add support for location and resource details in Ticket
 - Added: ContactInfoDTO.java -> Update Incident Ticket to include preferred contact info
 - Added: TicketStatus.java -> Implement Ticket workflow states
+- Added: WorkflowService.java -> Integrate ticket workflow states into service operations
