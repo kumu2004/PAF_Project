@@ -8,3 +8,4 @@
 - Added: ContactInfoDTO.java -> Update Incident Ticket to include preferred contact info
 - Added: TicketStatus.java -> Implement Ticket workflow states
 - Added: WorkflowService.java -> Integrate ticket workflow states into service operations
+- Added: TicketAttachment.java -> Add support for image evidence attachments
