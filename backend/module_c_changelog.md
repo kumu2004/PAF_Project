@@ -10,3 +10,4 @@
 - Added: WorkflowService.java -> Integrate ticket workflow states into service operations
 - Added: TicketAttachment.java -> Add support for image evidence attachments
 - Added: FileUploadController.java -> Implement file upload handler for ticket evidence
+- Added: AttachmentValidator.java -> Add validation for maximum 3 image attachments
