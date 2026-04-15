@@ -11,3 +11,4 @@
 - Added: TicketAttachment.java -> Add support for image evidence attachments
 - Added: FileUploadController.java -> Implement file upload handler for ticket evidence
 - Added: AttachmentValidator.java -> Add validation for maximum 3 image attachments
+- Added: AdminTicketController.java -> Create Admin endpoint for rejecting tickets with a reason
