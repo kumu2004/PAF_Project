@@ -13,3 +13,4 @@
 - Added: AttachmentValidator.java -> Add validation for maximum 3 image attachments
 - Added: AdminTicketController.java -> Create Admin endpoint for rejecting tickets with a reason
 - Added: TechnicianAssignment.java -> Add Technician assignment logic to tickets
+- Added: TechnicianService.java -> Implement ticket status update logic by assigned technician
