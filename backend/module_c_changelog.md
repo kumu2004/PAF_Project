@@ -14,3 +14,4 @@
 - Added: AdminTicketController.java -> Create Admin endpoint for rejecting tickets with a reason
 - Added: TechnicianAssignment.java -> Add Technician assignment logic to tickets
 - Added: TechnicianService.java -> Implement ticket status update logic by assigned technician
+- Added: ResolutionNote.java -> Add field and logic for technician resolution notes
