@@ -16,3 +16,4 @@
 - Added: TechnicianService.java -> Implement ticket status update logic by assigned technician
 - Added: ResolutionNote.java -> Add field and logic for technician resolution notes
 - Added: TicketComment.java -> Implement commenting capability on tickets
+- Added: CommentValidator.java -> Add comment ownership rules and validation
