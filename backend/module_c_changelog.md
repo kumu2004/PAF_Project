@@ -1,0 +1,20 @@
+- Added: TicketModule.txt -> Setup incident ticketing module structure
+- Added: Ticket.java -> Create Incident Ticket entity class
+- Added: TicketCategory.java -> Add Ticket category and priority enums
+- Added: TicketRepository.java -> Create Ticket repository interface
+- Added: TicketService.java -> Create initial Ticket service implementation
+- Added: TicketServiceImpl.java -> Implement logic to create an incident ticket
+- Added: LocationResource.java -> Add support for location and resource details in Ticket
+- Added: ContactInfoDTO.java -> Update Incident Ticket to include preferred contact info
+- Added: TicketStatus.java -> Implement Ticket workflow states
+- Added: WorkflowService.java -> Integrate ticket workflow states into service operations
+- Added: TicketAttachment.java -> Add support for image evidence attachments
+- Added: FileUploadController.java -> Implement file upload handler for ticket evidence
+- Added: AttachmentValidator.java -> Add validation for maximum 3 image attachments
+- Added: AdminTicketController.java -> Create Admin endpoint for rejecting tickets with a reason
+- Added: TechnicianAssignment.java -> Add Technician assignment logic to tickets
+- Added: TechnicianService.java -> Implement ticket status update logic by assigned technician
+- Added: ResolutionNote.java -> Add field and logic for technician resolution notes
+- Added: TicketComment.java -> Implement commenting capability on tickets
+- Added: CommentValidator.java -> Add comment ownership rules and validation
+- Added: CommentController.java -> Finalize user and staff constraints for edits and deletes
