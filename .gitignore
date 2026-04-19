@@ -1,0 +1,29 @@
+.vscode/
+
+# Java
+target/
+*.class
+*.jar
+*.war
+*.log
+hs_err_*.log
+
+# Maven
+.m2/
+
+# IDE
+.idea/
+*.iml
+
+# Env files (credentials)
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+dist/
+.next/
