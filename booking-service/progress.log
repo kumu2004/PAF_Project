@@ -1,0 +1,13 @@
+[2026-04-11T10:00:00] Init booking service project structure
+[2026-04-11T10:00:00] Init booking service project structure
+[2026-04-11T12:00:00] Add BookingModel class
+[2026-04-11T14:00:00] Add BookingRepository interface
+[2026-04-11T16:00:00] Add basic BookingService logic
+[2026-04-12T10:00:00] Implement BookingController endpoints
+[2026-04-12T12:00:00] Add validation for booking requests
+[2026-04-12T14:00:00] Configure database connection in application.properties
+[2026-04-12T16:00:00] Add custom exceptions for booking service
+[2026-04-13T10:00:00] Implement booking status update logic
+[2026-04-13T12:00:00] Add search functionality for bookings
+[2026-04-13T14:00:00] Integrate smart campus user service
+[2026-04-13T16:00:00] Add unit tests for BookingService
